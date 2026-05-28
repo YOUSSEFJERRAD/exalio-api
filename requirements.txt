@@ -1,4 +1,5 @@
 gunicorn
 flask
+flask-cors
 protobuf==4.25.3
 google-generativeai
