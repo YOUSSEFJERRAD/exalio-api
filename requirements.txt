@@ -1,4 +1,4 @@
 gunicorn
+flask
 protobuf==4.25.3
 google-generativeai
-flask
